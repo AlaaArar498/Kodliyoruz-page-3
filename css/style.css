@@ -1,0 +1,108 @@
+body {
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+button:hover {
+    border-color: #D66939 !important ;
+    background-color: #d66939 !important;
+}
+/* Navbare Start */
+.nav-bg-img { color: #fff;
+}
+.nav-ul {
+    margin-left: 650px;
+}
+.nav-button {    
+    border-color: #D66939;
+    border: solid;
+}
+.nav-p {
+    text-align: right;
+    margin: 100px 200px 0 0;
+}
+/* Navbar End */
+     
+/* bg-img Start */
+.nav-bg-img {
+    background-image: url(../img/1.jpg);
+    height: 100vh;
+    width: 100%;
+    background-size:cover;
+}
+/* bg-img End */
+
+/* Infobar start */
+.infobar-h1t {
+    margin: 50px 20px 0 20px;
+    text-align: center;
+}
+.infobar {
+    margin: 50px 20px 25px 20px;
+    padding: 10px 0 10px 0;
+    text-align: center;
+}
+.infobar-h1b {
+    margin: 25px 0px 50px 0px ;
+    text-align: right;
+}
+/* Infobar End */
+
+/* carousel Start */
+.button-carousel {
+    background-color: #d66939;
+    border-color: #d66939;
+}
+/* .btn-test {
+    display: flex;
+    align-self: end;
+} */
+/* Carousel End */
+
+/* About me Start */
+.about-me {
+    background-color: #eee;
+    padding: 0 0 0 70px;
+}
+.about-p {
+    text-align: left;
+    padding: 50px 0 0 0;
+}
+/* About me End */
+
+/* Video Presentation Start */
+/* Video Presentation End */
+
+/* Card Start */
+.card {
+    border: unset;
+}
+.test {
+    display: flex;
+    flex-direction: column;
+    margin-top: 5px;
+}
+.card-css {
+    padding-left: 40px ;
+    padding-right: 40px;
+    background-color: #eee;   
+}
+/* Card End  */
+/* Form Start */
+.new-form {
+    padding: 100px 0;
+    background-image: url(../img/4.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 500px;
+}
+.form-group {
+    width: 50%;
+}
+/* Form End */
+/* Fooer Start */
+.footer {
+    background-color: hsl(0, 0%, 0%);
+    padding: 35px 20px 35px 20px;
+    color: #fff;
+}
+/* Footer End */
